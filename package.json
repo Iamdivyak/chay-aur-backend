@@ -12,5 +12,8 @@
     "mongodb"
   ],
   "author": "divya kumari",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
 }
